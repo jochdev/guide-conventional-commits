@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/jochdev/test-conventional-commits/compare/v1.2.0...v1.3.0) (2025-05-27)
+
+
+### Features
+
+* mejora el mensaje de retorno en la función de prueba para mayor claridad ([aab8828](https://github.com/jochdev/test-conventional-commits/commit/aab88288534fcddb2976b13d05a20bf2070259e6))
+
 ## [1.2.0](https://github.com/jochdev/test-conventional-commits/compare/v1.1.0...v1.2.0) (2025-05-27)
 
 
