@@ -1,8 +1,27 @@
 # Guía Práctica: Versionado y Commits Profesionales en Node.js con Nuxt 3
 
+![Repo Banner](./public/repo-card.png)
+
 > **Creado por jochdev**
 >
 > **Nota:** Esta guía fue implementada y probada en un proyecto limpio de Nuxt 3, pero puedes adaptarla a cualquier proyecto Node.js.
+
+---
+
+## Tabla de Contenido
+
+- [¿Qué aprenderás?](#qué-aprenderás)
+- [Instalación y configuración inicial](#1-instalación-y-configuración-inicial)
+- [¿Cómo hacer un commit profesional?](#2-cómo-hacer-un-commit-profesional)
+- [Flujo de trabajo recomendado](#3-flujo-de-trabajo-recomendado)
+- [Ejemplo práctico](#4-ejemplo-práctico)
+- [¿Cómo deshacer un release o tag erróneo?](#5-cómo-deshacer-un-release-o-tag-erróneo)
+- [Troubleshooting (Solución de problemas)](#6-troubleshooting-solución-de-problemas)
+- [Buenas prácticas y tips](#7-buenas-prácticas-y-tips)
+- [Integración continua (CI) con GitHub Actions](#8-integración-continua-ci-con-github-actions)
+- [Recursos útiles](#9-recursos-útiles)
+- [Ejemplo de changelog generado](#10-ejemplo-de-changelog-generado)
+- [Scripts npm útiles](#11-scripts-npm-útiles)
 
 ---
 
