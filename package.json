@@ -12,7 +12,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "commit": "cz",
-    "release": "standard-version && git push --follow-tags origin main && npm publish"
+    "release": "standard-version && git push --follow-tags origin main"
   },
   "dependencies": {
     "@iconify-json/lucide": "^1.2.44",

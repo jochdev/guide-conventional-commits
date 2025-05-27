@@ -250,4 +250,21 @@ Esto generará una versión como `1.0.0-beta.0`.
 
 ---
 
+### Scripts npm útiles
+
+Puedes agregar estos scripts en tu `package.json` para facilitar tareas comunes:
+
+```json
+"scripts": {
+  // ...otros scripts...
+  "changelog": "cat CHANGELOG.md",
+  "clean:tags": "git tag -l | xargs git tag -d && git fetch --tags",
+  "release": "standard-version && git push --follow-tags origin main"
+}
+```
+
+- `npm run changelog`: muestra el changelog por consola.
+- `npm run clean:tags`: elimina todos los tags locales y los vuelve a sincronizar con el remoto (¡úsalo con precaución!).
+- `npm run release`: solo versiona y sube los tags, no publica en npm.
+
 Este README está listo para copiar y pegar en cualquier proyecto Node.js y tener un flujo de Conventional Commits, versionado y changelog automático.
