@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/jochdev/test-conventional-commits/compare/v1.0.21...v1.1.0) (2025-05-27)
+
+
+### Features
+
+* agrega archivo de prueba para incremento de versión minor ([abcc755](https://github.com/jochdev/test-conventional-commits/commit/abcc75555d36b625c97f275cc5346a062e1451b0))
+* agrega función de prueba para testear incremento de versión minor ([bc3afd4](https://github.com/jochdev/test-conventional-commits/commit/bc3afd4938e52e7acde69a8550169a70735541f7))
+
 ### [1.0.21](https://github.com/jochdev/test-conventional-commits/compare/v1.0.20...v1.0.21) (2025-05-27)
 
 ### [1.0.20](https://github.com/jochdev/test-conventional-commits/compare/v1.0.19...v1.0.20) (2025-05-27)
