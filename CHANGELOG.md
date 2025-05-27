@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/jochdev/test-conventional-commits/compare/v1.1.0...v1.2.0) (2025-05-27)
+
+
+### Features
+
+* unifica comillas en la función de prueba ([4aee1a1](https://github.com/jochdev/test-conventional-commits/commit/4aee1a17d8181a480091609ea1ded1cb7d78b8f4))
+
 ## [1.1.0](https://github.com/jochdev/test-conventional-commits/compare/v1.0.21...v1.1.0) (2025-05-27)
 
 
